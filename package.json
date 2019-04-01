@@ -1,0 +1,11 @@
+{
+	"name": "com.remix-factory.vfx-vox-importer",
+	"displayName":"Visual Effects Graph .vox importer",
+	"version": "0.1.0-preview",
+	"unity": "2019.1",
+	"description": "Importer for Magica Voxels vox files, with direct support for the Visual Effects Graph.",
+	"dependencies": {
+		"com.unity.render-pipelines.high-definition": "5.10.0-preview",
+		"com.unity.visualeffectgraph": "5.10.0-preview"
+	}
+}

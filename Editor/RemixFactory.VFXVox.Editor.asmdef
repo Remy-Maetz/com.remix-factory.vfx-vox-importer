@@ -1,0 +1,19 @@
+{
+    "name": "RemixFactory.VFXVox.Editor",
+    "references": [
+        "GUID:325a12b5785078d4c99d19130c4aa43d",
+        "GUID:116a4d4dbf5c04973bbf517077a062a1",
+        "GUID:d04eb9c554ad44ceab303cecf0c0cf82"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
